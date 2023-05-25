@@ -1,0 +1,15 @@
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\bin\Debug\net7.0\C#_Assignment3.exe
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\bin\Debug\net7.0\C#_Assignment3.deps.json
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\bin\Debug\net7.0\C#_Assignment3.runtimeconfig.json
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\bin\Debug\net7.0\C#_Assignment3.dll
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\bin\Debug\net7.0\C#_Assignment3.pdb
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\obj\Debug\net7.0\C#_Assignment3.csproj.AssemblyReference.cache
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\obj\Debug\net7.0\C#_Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\obj\Debug\net7.0\C#_Assignment3.AssemblyInfoInputs.cache
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\obj\Debug\net7.0\C#_Assignment3.AssemblyInfo.cs
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\obj\Debug\net7.0\C#_Assignment3.csproj.CoreCompileInputs.cache
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\obj\Debug\net7.0\C#_Assignment3.dll
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\obj\Debug\net7.0\refint\C#_Assignment3.dll
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\obj\Debug\net7.0\C#_Assignment3.pdb
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\obj\Debug\net7.0\C#_Assignment3.genruntimeconfig.cache
+E:\Nin-IT\C#-Project\Assignment_Day1\C#_Assignment3\obj\Debug\net7.0\ref\C#_Assignment3.dll
